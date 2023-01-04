@@ -1,0 +1,5 @@
+# Time of run:
+# Wed Jan  4 15:25:38 2023
+# Command:
+# ./berkeley_parse_analyser/classify_english.py sample_data/a_gold.mrg sample_data/a_unlexpcfg.mrg out/pcfg
+#
